@@ -30,4 +30,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-![MedeirosVitor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedeirosVitor&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Mamaco](https://github.com/DigKvs/DigKvs/blob/main/Assets/MACACO_no_computador.gif)
