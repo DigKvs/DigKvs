@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diego-kaviski-33a418252/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/diego-kaviski-33a418252/" title="LinkedIn" target=”_blank”>
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
