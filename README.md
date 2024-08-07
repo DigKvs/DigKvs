@@ -47,11 +47,4 @@
 </div>
 
 ---
-
-<p align="center"> 
-<a href="https://visitcount.itsvg.in" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DigKvs&label=Profile%20Views&color=0&icon=2&pretty=true" />
-</a>
-</p>
-
 </p>
