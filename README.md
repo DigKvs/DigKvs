@@ -11,10 +11,6 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<p align="center">
-  🦄 Languages: HTML, CSS, JS, Python, C, C++.
-</p>
-
 <h1 align="center">
 Linguagens 👨‍💻🛠
 </h1>
