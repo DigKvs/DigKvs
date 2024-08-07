@@ -4,20 +4,20 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=1500&size=30&pause=1000&color=1AEBF7&center=true&vCenter=true&width=435&lines=Hi!+im+Dig" alt="Typing SVG" /></a>
 
-<p align="left"> 
+<p align="center"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<p align="left">
+<p align="center">
   🦄 Linguagens: HTML, CSS, JS, Python, C, C++.
 </p>
 
-<p align="left">
+<p align="center">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/diego-kaviski-33a418252/" target="_blank" rel="noopener" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
