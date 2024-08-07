@@ -33,8 +33,10 @@
 <img src="https://github.com/DigKvs/DigKvs/blob/main/Assets/MACACO_no_computador.gif" alt="macaco no pc" min-width="400px" max-width="400px" width="400px" align="center" justify="center">
 </p>
 
-
-<a href="https://visitcount.itsvg.in" align="center" justify="center">
+<p align="center"> 
+<a href="https://visitcount.itsvg.in" align="center">
   <img src="https://visitcount.itsvg.in/api?id=DigKvs&label=Profile%20Views&color=0&icon=2&pretty=true" />
 </a>
+</p>
+
 </p>
