@@ -1,4 +1,5 @@
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center" justify="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=1500&size=30&pause=1000&color=1AEBF7&center=true&vCenter=true&width=435&lines=Hi!+im+Dig" alt="Typing SVG" align="center" /></a>
@@ -26,3 +27,4 @@
 </p>
 
 <img src="https://github.com/DigKvs/DigKvs/blob/main/Assets/MACACO_no_computador.gif" alt="macaco no pc" min-width="400px" max-width="400px" width="400px" align="center" justify="center">
+</p>
