@@ -15,6 +15,18 @@
   🦄 Languages: HTML, CSS, JS, Python, C, C++.
 </p>
 
+<h1 align="center">
+Linguagens 👨‍💻🛠
+</h1>
+
+</br>
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,github,html,js,nodejs,ps,react,tailwind,,Dados)](https://skillicons.dev)
+
+</div>
+
+</br>
 <p align="center">
   💌 Contact Me: ⤵️
 </p>
