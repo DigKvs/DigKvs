@@ -18,7 +18,7 @@ Linguagens 👨‍💻🛠
 </br>
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,github,html,js,nodejs,ps,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,nodejs,c,cpp,py,git,github,ps)](https://skillicons.dev)
 
 </div>
 
