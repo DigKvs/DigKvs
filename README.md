@@ -28,5 +28,9 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
+
+<p align="center"> 
 <img src="https://github.com/DigKvs/DigKvs/blob/main/Assets/MACACO_no_computador.gif" alt="macaco no pc" min-width="400px" max-width="400px" width="400px" align="center" justify="center">
+</p>
+  
 </p>
