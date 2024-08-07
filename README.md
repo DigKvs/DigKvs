@@ -33,6 +33,11 @@
 <img src="https://github.com/DigKvs/DigKvs/blob/main/Assets/MACACO_no_computador.gif" alt="macaco no pc" min-width="400px" max-width="400px" width="400px" align="center" justify="center">
 </p>
 
+
+<p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=digkvs&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
 <p align="center"> 
 <a href="https://visitcount.itsvg.in" align="center">
   <img src="https://visitcount.itsvg.in/api?id=DigKvs&label=Profile%20Views&color=0&icon=2&pretty=true" />
