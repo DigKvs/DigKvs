@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  🦄 Linguagens: HTML, CSS, JS, Python, C, C++.
+  🦄 Languages: HTML, CSS, JS, Python, C, C++.
 </p>
 
 <p align="center">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Contact Me: ⤵️
 </p>
 
 <p align="center">
