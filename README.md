@@ -35,11 +35,6 @@
 
 
 ---
-<div align="center">
-  
-![DigKvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=digkvs\&show_icons=true\&theme=radical)
-
-</div>
 
 <div align="center">
 
@@ -51,8 +46,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=digkvs&theme=material-palenight&hide_border=true)<br/>
 
 </div>
-
-
 
 ---
 </p>
