@@ -34,9 +34,19 @@
 </p>
 
 
-<p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=digkvs&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</p>
+---
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-cm&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=yas-cm&theme=material-palenight&hide_border=true)<br/>
+
+</div>
+
+---
 
 <p align="center"> 
 <a href="https://visitcount.itsvg.in" align="center">
