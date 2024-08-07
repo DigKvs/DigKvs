@@ -2,7 +2,9 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center" justify="center">
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=2&duration=4000&pause=1000&color=3DC1F7&center=true&vCenter=true&random=true&width=435&lines=Hi!+im+Dig" alt="Typing SVG"  align="center" justify="center"/></a>
+</p>
 
 <p align="center"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
