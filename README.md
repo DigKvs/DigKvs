@@ -14,6 +14,7 @@
 <h1 align="center">
 Linguagens 👨‍💻🛠
 </h1>
+---
 
 </br>
 <div align="center">
