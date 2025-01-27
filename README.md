@@ -7,8 +7,8 @@
 </p>
 
 <p align="center"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá! Sou aprendiz na Bosch, cursando Cibersistemas para Automação pelo SENAI. Sou apaixonado por programação e desenvolvimento de soluções inovadoras.
+  Meu repositório inclui projetos em React, Python, C, e muito mais.
 </p>
 
 <h1 align="center">
